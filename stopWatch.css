@@ -1,0 +1,37 @@
+body{
+background-color: #1c6758;
+}
+.time{
+    font-size: 50px;
+}
+.btn{
+    margin-top: 20px;
+}
+.dot{
+font-size: 50px;
+}
+
+#stopW{
+    border: 5px solid orange;
+    border-radius: 50%;
+    width:300px;
+    height: 300px;
+    margin-left: 28%;
+    margin-top: 8.5%;
+    
+    width:400px;
+    background-color: #3c5675;
+    
+}
+div#main{
+    margin-left: 105px;
+    margin-top: 68px;
+}
+#mainHead{
+    margin-left: 78px ;
+    margin-top: 45px;
+}
+.btn{
+    margin-left: 5px;
+   cursor: pointer;
+}
